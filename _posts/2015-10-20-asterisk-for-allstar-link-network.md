@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Asterisk for AllStar Link Network"
+title: "Asterisk for AllStarLink Network"
 description: "Informaton on an something I posted to QRZ/app_rpt a while ago"
 category: asterisk
 tags: []
@@ -8,6 +8,8 @@ tags: []
 {% include JB/setup %}
 
 # AllStarLink/Asterisk
+
+Main site:  [AllStarLink Network](https://allstarlink.org)
 
 **Repository:  [AllStarLink](https://github.com/KG7QIN/AllStarLink)**
 

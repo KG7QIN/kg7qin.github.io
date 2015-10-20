@@ -4,7 +4,7 @@
  <title>KG7QIN</title>
  <link href="http://kg7qin.github.io/atom.xml" rel="self"/>
  <link href="http://kg7qin.github.io"/>
- <updated>2015-10-20T00:25:18-07:00</updated>
+ <updated>2015-10-20T00:29:24-07:00</updated>
  <id>http://kg7qin.github.io</id>
  <author>
    <name>Stacy Olivas (KG7QIN)</name>
@@ -13,12 +13,14 @@
 
  
  <entry>
-   <title>Asterisk for AllStar Link Network</title>
+   <title>Asterisk for AllStarLink Network</title>
    <link href="http://kg7qin.github.io/asterisk/2015/10/20/asterisk-for-allstar-link-network"/>
    <updated>2015-10-20T00:00:00-07:00</updated>
    <id>http://kg7qin.github.io/asterisk/2015/10/20/asterisk-for-allstar-link-network</id>
    <content type="html">
 &lt;h1 id=&quot;allstarlinkasterisk&quot;&gt;AllStarLink/Asterisk&lt;/h1&gt;
+
+&lt;p&gt;Main site:  &lt;a href=&quot;https://allstarlink.org&quot;&gt;AllStarLink Network&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Repository:  &lt;a href=&quot;https://github.com/KG7QIN/AllStarLink&quot;&gt;AllStarLink&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
