@@ -5,25 +5,31 @@
         <description>KG7QIN - Stacy Olivas (KG7QIN)</description>
         <link>http://kg7qin.github.io</link>
         <atom:link href="http://kg7qin.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 20 Oct 2015 00:04:11 -0700</lastBuildDate>
-        <pubDate>Tue, 20 Oct 2015 00:04:11 -0700</pubDate>
+        <lastBuildDate>Tue, 20 Oct 2015 00:23:59 -0700</lastBuildDate>
+        <pubDate>Tue, 20 Oct 2015 00:23:59 -0700</pubDate>
         <ttl>60</ttl>
 
 
         <item>
-                <title>Main Page</title>
+                <title>Asterisk for AllStar Link Network</title>
                 <description>
-&lt;h1 id=&quot;welcome-to-my-contributions-to-the-allstar-link-network&quot;&gt;Welcome to my contributions to the AllStar Link Network.&lt;/h1&gt;
+&lt;h1 id=&quot;allstarlinkasterisk&quot;&gt;AllStarLink/Asterisk&lt;/h1&gt;
 
-&lt;p&gt;Currently, I’ve used jekyll-bootstrap to do a quick and dirty setup for this site.  The default template is
-pretty bad, but it will have to do for now.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Repository:  &lt;a href=&quot;https://github.com/KG7QIN/AllStarLink&quot;&gt;AllStarLink&lt;/a&gt;&lt;/strong&gt;
+This is my inital contribution to the AllStar Link Network/Asterisk.  There, you will find the files I pushed to the repo for getting the forked 
+version of Asterisk to compile on a modern (3.x+) Linux Kernel.  It runs, and I’ve successfully run this one several of my 
+machines for connecting to the AllStarLink Network.&lt;/p&gt;
 
-&lt;p&gt;I will put any code that I do for the AllStar Link Network/Asterisk here.&lt;/p&gt;
+&lt;p&gt;This also contains the ports of the pathches needed for DAHDI to 2.10.2+2.10.2-complete.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Repository:  &lt;a href=&quot;https://github.com/KG7QIN/AllStarLink-FreeBSD&quot;&gt;AllStarLink-FreeBSD&lt;/a&gt;&lt;/strong&gt;
+Additionally, there exists an untested port of the patches to the DAHDI driver for FreeBSD.  This was modified from the 
+FreeBSD ports tree.  It compiles, runs and loads into the FreeBSD Kernel without a panic (a good thing!)&lt;/p&gt;
 
 </description>
-                <link>http://kg7qin.github.io/asterisk%20allstarlinknetwork/2015/10/19/setting-up-blog</link>
-                <guid>http://kg7qin.github.io/asterisk%20allstarlinknetwork/2015/10/19/setting-up-blog</guid>
-                <pubDate>Mon, 19 Oct 2015 00:00:00 -0700</pubDate>
+                <link>http://kg7qin.github.io/asterisk/2015/10/20/asterisk-for-allstar-link-network</link>
+                <guid>http://kg7qin.github.io/asterisk/2015/10/20/asterisk-for-allstar-link-network</guid>
+                <pubDate>Tue, 20 Oct 2015 00:00:00 -0700</pubDate>
         </item>
 
 

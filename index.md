@@ -5,7 +5,12 @@ tagline:
 ---
 {% include JB/setup %}
 
-Posts:
+Welcome to my GitHub hosted blog/site (via jekyll).
+
+Here, you wil find various things that I've decided to post like pieces of code I've hacked on, etc.  Most
+will related to Amateur Radio.
+
+Select from one of the posts below...
 
 <ul class="posts">
   {% for post in site.posts %}
