@@ -10,6 +10,7 @@ tags: []
 # AllStarLink/Asterisk
 
 **Repository:  [AllStarLink](https://github.com/KG7QIN/AllStarLink)**
+
 This is my inital contribution to the AllStar Link Network/Asterisk.  There, you will find the files I pushed to the repo for getting the forked 
 version of Asterisk to compile on a modern (3.x+) Linux Kernel.  It runs, and I've successfully run this one several of my 
 machines for connecting to the AllStarLink Network.
@@ -18,6 +19,7 @@ This also contains the ports of the pathches needed for DAHDI to 2.10.2+2.10.2-c
 
 
 **Repository:  [AllStarLink-FreeBSD](https://github.com/KG7QIN/AllStarLink-FreeBSD)**
+
 Additionally, there exists an untested port of the patches to the DAHDI driver for FreeBSD.  This was modified from the 
 FreeBSD ports tree.  It compiles, runs and loads into the FreeBSD Kernel without a panic (a good thing!)
 

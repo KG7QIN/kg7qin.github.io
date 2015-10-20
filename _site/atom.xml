@@ -4,7 +4,7 @@
  <title>KG7QIN</title>
  <link href="http://kg7qin.github.io/atom.xml" rel="self"/>
  <link href="http://kg7qin.github.io"/>
- <updated>2015-10-20T00:23:59-07:00</updated>
+ <updated>2015-10-20T00:25:18-07:00</updated>
  <id>http://kg7qin.github.io</id>
  <author>
    <name>Stacy Olivas (KG7QIN)</name>
@@ -20,15 +20,17 @@
    <content type="html">
 &lt;h1 id=&quot;allstarlinkasterisk&quot;&gt;AllStarLink/Asterisk&lt;/h1&gt;
 
-&lt;p&gt;&lt;strong&gt;Repository:  &lt;a href=&quot;https://github.com/KG7QIN/AllStarLink&quot;&gt;AllStarLink&lt;/a&gt;&lt;/strong&gt;
-This is my inital contribution to the AllStar Link Network/Asterisk.  There, you will find the files I pushed to the repo for getting the forked 
+&lt;p&gt;&lt;strong&gt;Repository:  &lt;a href=&quot;https://github.com/KG7QIN/AllStarLink&quot;&gt;AllStarLink&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is my inital contribution to the AllStar Link Network/Asterisk.  There, you will find the files I pushed to the repo for getting the forked 
 version of Asterisk to compile on a modern (3.x+) Linux Kernel.  It runs, and I’ve successfully run this one several of my 
 machines for connecting to the AllStarLink Network.&lt;/p&gt;
 
 &lt;p&gt;This also contains the ports of the pathches needed for DAHDI to 2.10.2+2.10.2-complete.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Repository:  &lt;a href=&quot;https://github.com/KG7QIN/AllStarLink-FreeBSD&quot;&gt;AllStarLink-FreeBSD&lt;/a&gt;&lt;/strong&gt;
-Additionally, there exists an untested port of the patches to the DAHDI driver for FreeBSD.  This was modified from the 
+&lt;p&gt;&lt;strong&gt;Repository:  &lt;a href=&quot;https://github.com/KG7QIN/AllStarLink-FreeBSD&quot;&gt;AllStarLink-FreeBSD&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Additionally, there exists an untested port of the patches to the DAHDI driver for FreeBSD.  This was modified from the 
 FreeBSD ports tree.  It compiles, runs and loads into the FreeBSD Kernel without a panic (a good thing!)&lt;/p&gt;
 
 </content>
