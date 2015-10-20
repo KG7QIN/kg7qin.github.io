@@ -11,6 +11,10 @@ tags: []
 
 Main site:  [AllStarLink Network](https://allstarlink.org)
 
+Note:  Both of these repositories were made a while ago as a place to put the code for others to use.  They currently are
+not maintained in any way, so you are on your own if you use them.  The ideal way to use these repositories would be to
+fork them, so if you make any changes or find bugs, you can make the changes and send me a pull request later.
+
 **Repository:  [AllStarLink](https://github.com/KG7QIN/AllStarLink)**
 
 This is my inital contribution to the AllStar Link Network/Asterisk.  There, you will find the files I pushed to the repo for getting the forked 

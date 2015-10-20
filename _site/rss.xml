@@ -5,8 +5,8 @@
         <description>KG7QIN - Stacy Olivas (KG7QIN)</description>
         <link>http://kg7qin.github.io</link>
         <atom:link href="http://kg7qin.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 20 Oct 2015 00:29:24 -0700</lastBuildDate>
-        <pubDate>Tue, 20 Oct 2015 00:29:24 -0700</pubDate>
+        <lastBuildDate>Tue, 20 Oct 2015 00:45:26 -0700</lastBuildDate>
+        <pubDate>Tue, 20 Oct 2015 00:45:26 -0700</pubDate>
         <ttl>60</ttl>
 
 
@@ -16,6 +16,10 @@
 &lt;h1 id=&quot;allstarlinkasterisk&quot;&gt;AllStarLink/Asterisk&lt;/h1&gt;
 
 &lt;p&gt;Main site:  &lt;a href=&quot;https://allstarlink.org&quot;&gt;AllStarLink Network&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Note:  Both of these repositories were made a while ago as a place to put the code for others to use.  They currently are
+not maintained in any way, so you are on your own if you use them.  The ideal way to use these repositories would be to
+fork them, so if you make any changes or find bugs, you can make the changes and send me a pull request later.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Repository:  &lt;a href=&quot;https://github.com/KG7QIN/AllStarLink&quot;&gt;AllStarLink&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
