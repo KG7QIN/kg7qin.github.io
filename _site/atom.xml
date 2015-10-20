@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>KG7QIN</title>
+ <link href="http://kg7qin.github.io/atom.xml" rel="self"/>
+ <link href="http://kg7qin.github.io"/>
+ <updated>2015-10-20T00:04:11-07:00</updated>
+ <id>http://kg7qin.github.io</id>
+ <author>
+   <name>Stacy Olivas (KG7QIN)</name>
+   <email>kg7qin@arrl.net</email>
+ </author>
+
+ 
+ <entry>
+   <title>Main Page</title>
+   <link href="http://kg7qin.github.io/asterisk%20allstarlinknetwork/2015/10/19/setting-up-blog"/>
+   <updated>2015-10-19T00:00:00-07:00</updated>
+   <id>http://kg7qin.github.io/asterisk%20allstarlinknetwork/2015/10/19/setting-up-blog</id>
+   <content type="html">
+&lt;h1 id=&quot;welcome-to-my-contributions-to-the-allstar-link-network&quot;&gt;Welcome to my contributions to the AllStar Link Network.&lt;/h1&gt;
+
+&lt;p&gt;Currently, I’ve used jekyll-bootstrap to do a quick and dirty setup for this site.  The default template is
+pretty bad, but it will have to do for now.&lt;/p&gt;
+
+&lt;p&gt;I will put any code that I do for the AllStar Link Network/Asterisk here.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>KG7QIN</title>
+        <description>KG7QIN - Stacy Olivas (KG7QIN)</description>
+        <link>http://kg7qin.github.io</link>
+        <atom:link href="http://kg7qin.github.io/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Tue, 20 Oct 2015 00:04:11 -0700</lastBuildDate>
+        <pubDate>Tue, 20 Oct 2015 00:04:11 -0700</pubDate>
+        <ttl>60</ttl>
+
+
+        <item>
+                <title>Main Page</title>
+                <description>
+&lt;h1 id=&quot;welcome-to-my-contributions-to-the-allstar-link-network&quot;&gt;Welcome to my contributions to the AllStar Link Network.&lt;/h1&gt;
+
+&lt;p&gt;Currently, I’ve used jekyll-bootstrap to do a quick and dirty setup for this site.  The default template is
+pretty bad, but it will have to do for now.&lt;/p&gt;
+
+&lt;p&gt;I will put any code that I do for the AllStar Link Network/Asterisk here.&lt;/p&gt;
+
+</description>
+                <link>http://kg7qin.github.io/asterisk%20allstarlinknetwork/2015/10/19/setting-up-blog</link>
+                <guid>http://kg7qin.github.io/asterisk%20allstarlinknetwork/2015/10/19/setting-up-blog</guid>
+                <pubDate>Mon, 19 Oct 2015 00:00:00 -0700</pubDate>
+        </item>
+
+
+</channel>
+</rss>
