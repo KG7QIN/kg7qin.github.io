@@ -7,8 +7,9 @@ tagline:
 
 Welcome to my GitHub hosted blog/site (via jekyll).
 
-Here, you wil find various things that I've decided to post like pieces of code I've hacked on, etc.  Most
-will related to Amateur Radio.
+Here, you wil find various things that I've decided to post like pieces of code I've hacked on, etc.  
+
+Some will be related to Ham (Amateur) Radio.  Others, well, it all depends on what I feel like putting here.
 
 Select from one of the posts below...
 
