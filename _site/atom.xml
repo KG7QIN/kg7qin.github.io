@@ -4,13 +4,46 @@
  <title>KG7QIN</title>
  <link href="http://kg7qin.github.io/atom.xml" rel="self"/>
  <link href="http://kg7qin.github.io"/>
- <updated>2015-10-20T01:47:49-07:00</updated>
+ <updated>2016-04-23T17:43:19-07:00</updated>
  <id>http://kg7qin.github.io</id>
  <author>
    <name>Stacy Olivas (KG7QIN)</name>
    <email>kg7qin@arrl.net</email>
  </author>
 
+ 
+ <entry>
+   <title>Porting AllStarLink to Asterisk 1.8.32.3</title>
+   <link href="http://kg7qin.github.io/asterisk/2016/04/23/allstarlink-asterisk-1.8"/>
+   <updated>2016-04-23T00:00:00-07:00</updated>
+   <id>http://kg7qin.github.io/asterisk/2016/04/23/allstarlink-asterisk-1.8</id>
+   <content type="html">
+&lt;h1 id=&quot;allstarlinkasterisk-18-port&quot;&gt;AllStarLink/Asterisk 1.8 Port&lt;/h1&gt;
+
+&lt;p&gt;Main site:  &lt;a href=&quot;https://allstarlink.org&quot;&gt;AllStarLink Network&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I initially did most of the work on this back in October/November 2015.  At the time, I had quite a bit of free time
+on my hands, as I was retiring from the US Navy after 20 years of active duty service and looking for a new job.&lt;/p&gt;
+
+&lt;p&gt;After my initial push to get most of the stuff converted, and there are still a few modules that need to be ported over, 
+ended up stopping for abit with the eventual plan to pick this back up.  I finally decided to release this on Github so that:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The code doesn’t get lost in time.&lt;/li&gt;
+  &lt;li&gt;I hope that I can start collaborating with others on this.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I’d really like to see the AllStarLink network move forward, and think that Jim Dixon (et all) have done a really great job on 
+getting it up and keeping it running.&lt;/p&gt;
+
+&lt;p&gt;With any project, if things stagnate (regardless of how great they work), then there is a possibility that it will eventually
+die off.  I’d like to see AllStarLink eventually move from 1.4 to 1.8 and then onto a more recent and supported version of Asterisk
+like 13.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Repository:  &lt;a href=&quot;https://github.com/KG7QIN/AllStarLink-Asterisk-1.8&quot;&gt;AllStarLink-Asterisk-1.8&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Asterisk for AllStarLink Network</title>

@@ -8,4 +8,5 @@ http://kg7qin.github.io/rss.xml
 http://kg7qin.github.io/sitemap.txt
 http://kg7qin.github.io/tags.html
 
+http://kg7qin.github.io/asterisk/2016/04/23/allstarlink-asterisk-1.8
 http://kg7qin.github.io/asterisk/2015/10/20/asterisk-for-allstar-link-network
