@@ -1,12 +1,12 @@
 
-http://kg7qin.github.io/archive.html
+http://kg7qin.github.io/archive
 http://kg7qin.github.io/atom.xml
-http://kg7qin.github.io/categories.html
-http://kg7qin.github.io/index.html
-http://kg7qin.github.io/pages.html
+http://kg7qin.github.io/categories
+http://kg7qin.github.io/
+http://kg7qin.github.io/pages
 http://kg7qin.github.io/rss.xml
 http://kg7qin.github.io/sitemap.txt
-http://kg7qin.github.io/tags.html
+http://kg7qin.github.io/tags
 
 http://kg7qin.github.io/asterisk/2016/04/23/allstarlink-asterisk-1.8
 http://kg7qin.github.io/asterisk/2015/10/20/asterisk-for-allstar-link-network

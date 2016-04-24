@@ -5,22 +5,22 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Porting AllStarLink to Asterisk 1.8.32.3</title>
-    <meta name="description" content="I initially did this back in October/November 2015">
+    <title>Asterisk for AllStarLink Network</title>
+    <meta name="description" content="Informaton on an something I posted to QRZ/app_rpt a while ago">
     <meta name="author" content="Stacy Olivas (KG7QIN)">
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Bootstrap styles -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/themes//bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Optional theme -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="/assets/themes//bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
     <!-- Sticky Footer -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
+    <link href="/assets/themes//bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
     
     <!-- Custom styles -->
-    <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="/assets/themes//css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -69,7 +69,7 @@
     
       
       	
-      	<li><a href="/archive.html">Archive</a></li>
+      	<li><a href="/archive">Archive</a></li>
       	
       
     
@@ -81,7 +81,7 @@
     
       
       	
-      	<li><a href="/categories.html">Categories</a></li>
+      	<li><a href="/categories">Categories</a></li>
       	
       
     
@@ -93,7 +93,7 @@
     
       
       	
-      	<li><a href="/pages.html">Pages</a></li>
+      	<li><a href="/pages">Pages</a></li>
       	
       
     
@@ -109,7 +109,7 @@
     
       
       	
-      	<li><a href="/tags.html">Tags</a></li>
+      	<li><a href="/tags">Tags</a></li>
       	
       
     
@@ -130,39 +130,36 @@
       <div class="container">
         
 <div class="page-header">
-  <h1>Porting AllStarLink to Asterisk 1.8.32.3 </h1>
+  <h1>Asterisk for AllStarLink Network </h1>
 </div>
 
 <div class="row post-full">
   <div class="col-xs-12">
     <div class="date">
-      <span>23 April 2016</span>
+      <span>20 October 2015</span>
     </div>
     <div class="content">
       
-<h1 id="allstarlinkasterisk-18-port">AllStarLink/Asterisk 1.8 Port</h1>
+<h1 id="allstarlinkasterisk">AllStarLink/Asterisk</h1>
 
 <p>Main site:  <a href="https://allstarlink.org">AllStarLink Network</a></p>
 
-<p>I initially did most of the work on this back in October/November 2015.  At the time, I had quite a bit of free time
-on my hands, as I was retiring from the US Navy after 20 years of active duty service and looking for a new job.</p>
+<p>Note:  Both of these repositories were made a while ago as a place to put the code for others to use.  They currently are
+not maintained in any way, so you are on your own if you use them.  The ideal way to use these repositories would be to
+fork them, so if you make any changes or find bugs, you can make the changes and send me a pull request later.</p>
 
-<p>After my initial push to get most of the stuff converted, and there are still a few modules that need to be ported over, 
-ended up stopping for abit with the eventual plan to pick this back up.  I finally decided to release this on Github so that:</p>
+<p><strong>Repository:  <a href="https://github.com/KG7QIN/AllStarLink">AllStarLink</a></strong></p>
 
-<ol>
-  <li>The code doesn’t get lost in time.</li>
-  <li>I hope that I can start collaborating with others on this.</li>
-</ol>
+<p>This is my inital contribution to the AllStar Link Network/Asterisk.  There, you will find the files I pushed to the repo for getting the forked 
+version of Asterisk to compile on a modern (3.x+) Linux Kernel.  It runs, and I’ve successfully run this one several of my 
+machines for connecting to the AllStarLink Network.</p>
 
-<p>I’d really like to see the AllStarLink network move forward, and think that Jim Dixon (et all) have done a really great job on 
-getting it up and keeping it running.</p>
+<p>This also contains the ports of the pathches needed for DAHDI to 2.10.2+2.10.2-complete.</p>
 
-<p>With any project, if things stagnate (regardless of how great they work), then there is a possibility that it will eventually
-die off.  I’d like to see AllStarLink eventually move from 1.4 to 1.8 and then onto a more recent and supported version of Asterisk
-like 13.</p>
+<p><strong>Repository:  <a href="https://github.com/KG7QIN/AllStarLink-FreeBSD">AllStarLink-FreeBSD</a></strong></p>
 
-<p><strong>Repository:  <a href="https://github.com/KG7QIN/AllStarLink-Asterisk-1.8">AllStarLink-Asterisk-1.8</a></strong></p>
+<p>Additionally, there exists an untested port of the patches to the DAHDI driver for FreeBSD.  This was modified from the 
+FreeBSD ports tree.  It compiles, runs and loads into the FreeBSD Kernel without a panic (a good thing!)</p>
 
 
     </div>
@@ -191,11 +188,11 @@ like 13.</p>
     <hr>
     <ul class="pagination">
     
-      <li class="prev"><a href="/asterisk/2015/10/20/asterisk-for-allstar-link-network" title="Asterisk for AllStarLink Network">&laquo; Previous</a></li>
+      <li class="prev disabled"><a>&larr; Previous</a></li>
     
       <li><a href="/archive.html">Archive</a></li>
     
-      <li class="next disabled"><a>Next &rarr;</a>
+      <li class="next"><a href="/asterisk/2016/04/23/allstarlink-asterisk-1.8" title="Porting AllStarLink to Asterisk 1.8.32.3">Next &raquo;</a></li>
     
     </ul>
     <hr>
@@ -247,7 +244,7 @@ like 13.</p>
     <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/assets/themes//bootstrap/js/bootstrap.min.js"></script>
   </body>
 </html>
 
