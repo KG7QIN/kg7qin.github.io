@@ -4,13 +4,30 @@
  <title>KG7QIN</title>
  <link href="http://kg7qin.github.io/atom.xml" rel="self"/>
  <link href="http://kg7qin.github.io"/>
- <updated>2022-08-04T13:31:51-07:00</updated>
+ <updated>2022-08-04T13:39:13-07:00</updated>
  <id>http://kg7qin.github.io</id>
  <author>
    <name>Stacy Olivas (KG7QIN)</name>
    <email>kg7qin@arrl.net</email>
  </author>
 
+ 
+ <entry>
+   <title>Finally updated pages</title>
+   <link href="http://kg7qin.github.io/2022/08/04/finally-updated-pages"/>
+   <updated>2022-08-04T00:00:00-07:00</updated>
+   <id>http://kg7qin.github.io/2022/08/04/finally-updated-pages</id>
+   <content type="html">
+&lt;h1 id=&quot;finally-updated-pages&quot;&gt;Finally updated pages&lt;/h1&gt;
+
+&lt;p&gt;Wow, it has been a few years since I messed with this site and Jekyll.  For the longest time it just sat here, kinda broken.&lt;/p&gt;
+
+&lt;p&gt;Well, today I finally invested the time and effort into fixing it.  The headers were kinda messed up so the pages didn’t reder properly.  That hs been fixed.&lt;/p&gt;
+
+&lt;p&gt;I will probably start publishing random things here again now that I have the templating engine fixed.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Porting AllStarLink to Asterisk 1.8.32.3</title>
