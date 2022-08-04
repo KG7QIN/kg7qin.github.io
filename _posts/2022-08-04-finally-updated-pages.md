@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Finally updated pages"
-description: ""
-category: 
+description: "Just a random update"
+category: main 
 tags: []
 ---
 {% include JB/setup %}
