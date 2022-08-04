@@ -4,7 +4,7 @@
  <title>KG7QIN</title>
  <link href="http://kg7qin.github.io/atom.xml" rel="self"/>
  <link href="http://kg7qin.github.io"/>
- <updated>2022-08-04T13:41:39-07:00</updated>
+ <updated>2022-08-04T13:45:36-07:00</updated>
  <id>http://kg7qin.github.io</id>
  <author>
    <name>Stacy Olivas (KG7QIN)</name>
@@ -18,11 +18,11 @@
    <updated>2022-08-04T00:00:00-07:00</updated>
    <id>http://kg7qin.github.io/main/2022/08/04/finally-updated-pages</id>
    <content type="html">
-&lt;h1 id=&quot;finally-updated-pages&quot;&gt;Finally updated pages&lt;/h1&gt;
+&lt;h2 id=&quot;finally-fixed-the-templates-and-updates-pages&quot;&gt;Finally fixed the templates and updates pages…&lt;/h2&gt;
 
 &lt;p&gt;Wow, it has been a few years since I messed with this site and Jekyll.  For the longest time it just sat here, kinda broken.&lt;/p&gt;
 
-&lt;p&gt;Well, today I finally invested the time and effort into fixing it.  The headers were kinda messed up so the pages didn’t reder properly.  That hs been fixed.&lt;/p&gt;
+&lt;p&gt;Well, today I finally invested the time and effort into fixing it.  The headers were kinda messed up so the pages didn’t reder properly.  That has been fixed.&lt;/p&gt;
 
 &lt;p&gt;I will probably start publishing random things here again now that I have the templating engine fixed.&lt;/p&gt;
 
